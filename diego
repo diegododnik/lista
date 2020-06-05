@@ -1,1 +1,5 @@
 # lista
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="http://z4.vc/4gV" group-title="CANAIS | NOTÍCIAS",Globo News
+https://stream.ec.cx/hls1/globonews.m3u8?expires=1591417406&token=2e83c9b7525173e4a09c265ade866caf
